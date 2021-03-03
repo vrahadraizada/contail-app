@@ -1,6 +1,6 @@
 # coctail
 
-A new Flutter project.
+A new Flutter project. This is an cocktail app made with flutter. Rest API, HTTP is used in it
 
 ## Getting Started
 
